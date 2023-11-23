@@ -10,4 +10,5 @@ void splitList(Node *head, Node **head1_ref, Node **head2_ref)
     *head2_ref=s->next;
     s->next=head;
     *head1_ref=head;
+}
   
