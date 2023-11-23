@@ -1,4 +1,4 @@
-//Approach : Brute Force(Data replacement approach)
+//Approach : Brute Force (Data replacement approach)
 // tc: O(N)
 // Sc: O(1)
 class Solution
@@ -36,7 +36,7 @@ class Solution
 
 
 
-//Approach: Better Solution (Node change approach)
+//Approach: Brute Force (Node change approach)
 // Tc: O(N)
 // Sc: O(1)
 
